@@ -1,0 +1,3 @@
+ - Place train images of jpg format in `train-jpg` folder
+ - Place test images of jpg format in `test-jpg` folder
+ - Place `train_v2.csv` in this folder
